@@ -3,9 +3,8 @@
 Greetings! As a potential new-hire we want to put you in charge of your very own restaurant.
 What will you be serving? We don't mind, as long as it's tasty (and completely digital).
 
-
-
 ## The Challenge
+
 Your challenge is to build a Full Stack Web app that lets the user order food and drinks from a menu (of your choice), and notifies them when it's 'ready' for pickup.
 
 ### How it behaves:
@@ -16,7 +15,7 @@ Your challenge is to build a Full Stack Web app that lets the user order food an
 
 - The app must store the menu, order and any stateful information in a database (MySQL).
 
-- The app must notify the user when the food is ready for pickup (My recommendation is that you set a wait/timeout to simulate  the "chef").
+- The app must notify the user when the food is ready for pickup (My recommendation is that you set a wait/timeout to simulate the "chef").
 
 - The app must use styling (even if it's not pretty). Extra points for [Material UI](https://material-ui.com).
 
@@ -74,5 +73,5 @@ If you get stuck, are not able to complete the assignment to a degree you feel c
 
 The entire reason for this test is to get an idea of your skills, so we want to make sure that you have the best possible chance :)
 
-Just send us an email on: 
+Just send us an email on:
 <join-devs@adludio.com>

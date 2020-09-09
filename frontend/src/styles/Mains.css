@@ -1,0 +1,105 @@
+.promotion {
+  display: flex;
+  flex-direction: column;
+}
+
+.first-promotion {
+  display: flex;
+}
+
+.second-promotion {
+  display: flex;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.name-list {
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+.Main-main {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.container-cards {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-avo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 750px;
+  height: 320px;
+  border-style: solid;
+  border-color: #c3c9cf;
+  border-radius: 7px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.card-avo:hover {
+  background-color: #7247ff1f;
+}
+
+.avo-image {
+  width: 280px;
+  height: 230px;
+  border-radius: 7px;
+}
+
+.avo-texts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 200px;
+  width: 324px;
+}
+
+.title-food {
+  font-size: 30px;
+}
+
+.price-food {
+
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.count-card {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-right: 10px;
+  font-size: 25px;
+}
+
+.btn {
+  background-color:#cd1bd4;
+  color:white;
+  font-weight: bold;
+  border:none;
+}
+.btn:hover {
+  background-color:#b577f0;
+  width: 80.66px;
+}
+
+.bottons-card{
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+
+

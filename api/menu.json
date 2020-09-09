@@ -1,0 +1,85 @@
+{
+  "mains": [
+    {
+      "id": 1,
+      "title": "Avo on toast",
+      "url": "http://api.adfoodio.site/static/images/avoT.jpg",
+      "price": 8.5,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "title": "Pesto pasta with pine nuts and mozzarella",
+      "url": "http://api.adfoodio.site/static/images/pestoP.jpg",
+      "price": 9.5,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "title": "Roasted pork belly with kimchi and soy sauce glaze",
+      "url": "http://api.adfoodio.site/static/images/roasted.jpg",
+      "price": 11.0,
+      "count": 2
+    },
+    {
+      "id": 4,
+      "title": "Mac and cheese with crunchy seitan ‘bacon’ (V)",
+      "url": "http://api.adfoodio.site/static/images/macp.jpg",
+      "price": 10.0,
+      "count": 0
+    }
+  ],
+  "drinks": [
+    {
+      "id": 5,
+      "title": "Gin and Tonic",
+      "url": "http://api.adfoodio.site/static/images/gin.jpg",
+      "price": 9.05,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "title": "White Russian",
+      "url": "http://api.adfoodio.site/static/images/white.jpg",
+      "price": 9.2,
+      "count": 3
+    },
+    {
+      "id": 7,
+      "title": "Mojito",
+      "url": "http://api.adfoodio.site/static/images/mojito.jpg",
+      "price": 8.0,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "title": "Old Fashioned",
+      "url": "http://api.adfoodio.site/static/images/old.jpg",
+      "price": 9.0,
+      "count": 0
+    }
+  ],
+  "desserts": [
+    {
+      "id": 9,
+      "title": "Blackberry cheesecake",
+      "url": "http://api.adfoodio.site/static/images/optionA.jpg",
+      "price": 7.2,
+      "count": 1
+    },
+    {
+      "id": 10,
+      "title": "Vanilla and chocolate ice cream with hazelnuts",
+      "url": "http://api.adfoodio.site/static/images/optionB.jpg",
+      "price": 7.5,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "title": "Volcano",
+      "url": "http://api.adfoodio.site/static/images/OptionC.jpg",
+      "price": 6.8,
+      "count": 0
+    }
+  ]
+}

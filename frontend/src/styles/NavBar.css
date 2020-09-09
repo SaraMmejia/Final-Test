@@ -1,0 +1,89 @@
+.navbar {
+  padding: 0px;
+  display: block;
+  height: 200px;
+  background-color: #965acec4
+}
+
+.navbar :hover {
+  color: rgb(209, 202, 202);
+}
+
+.navbar-brand {
+  padding-left: 30px;
+  width: 500px;
+  height: 100px;
+}
+
+.navbar-brandAF{
+    width: 900px;
+    height: 100px
+}
+
+.logo-food{
+    display: flex;
+    width: 500px;
+}
+
+
+.navbar .collapse {
+  display: flex;
+}
+
+.navbar .nav-link {
+  margin-right: 200px;
+  margin-left: 200px;
+  padding: 0px;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.navbar .nav-link :hover {
+  color: rgb(209, 202, 202);
+}
+
+.container-icon {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icones {
+  font-size: 25px;
+  color: white;
+  cursor: pointer;
+}
+
+.head-top{ 
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    margin-left: 50px;
+
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 100px;
+    margin-top: 3px;
+    font-size: 40px;
+    color:white
+}
+
+.footer-botton{
+    background-color:  rgba(155, 94, 139, 0.767)
+}   
+
+.shoppingCart{
+  color: white;
+  cursor: pointer;
+}
+
+.shoppingCart:hover{
+  color:  rgb(209, 202, 202);
+}
